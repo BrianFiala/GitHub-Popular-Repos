@@ -9,7 +9,7 @@ Clone this repo, then run an http server in the `src/` directory. Be sure to typ
   NOTE: you must have a GitHub account to get a personal access token.
 
   ## About
-  Entering your token and the username of the user whose repositories you wish to review, you will be presented with a list of panels. Clickiing on the panel will reveal additional repository information.
+  Entering your token and the username of the user whose repositories you wish to review, you will be presented with a list of panels. Clicking on the panel will reveal additional repository information.
 
   This project uses Angular directives/filters, and Bootstrap for simple styling. It's purpose is to be versatile enough to easily use in other contexts. 
 
